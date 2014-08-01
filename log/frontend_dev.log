@@ -1,0 +1,364 @@
+Aug 01 16:44:49 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 01 16:44:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 16:44:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 16:44:49 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 01 16:44:49 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Aug 01 16:44:49 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Aug 01 16:44:49 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Aug 01 16:44:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 16:44:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 16:44:49 symfony [info] {sfWebDebugLogger} Configuration 33.47 ms (8)
+Aug 01 16:44:49 symfony [info] {sfWebDebugLogger} Factories 38.52 ms (1)
+Aug 01 16:44:49 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Aug 01 16:44:49 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.79 ms (1)
+Aug 01 16:44:49 symfony [info] {sfWebResponse} Send content (30178 o)
+Aug 01 16:59:19 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 01 16:59:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 16:59:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 16:59:19 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 01 16:59:19 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Aug 01 16:59:19 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Aug 01 16:59:19 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Aug 01 16:59:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 16:59:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 16:59:19 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (8)
+Aug 01 16:59:19 symfony [info] {sfWebDebugLogger} Factories 14.46 ms (1)
+Aug 01 16:59:19 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Aug 01 16:59:19 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.66 ms (1)
+Aug 01 16:59:19 symfony [info] {sfWebResponse} Send content (30208 o)
+Aug 01 16:59:21 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 01 16:59:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 16:59:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 16:59:21 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 01 16:59:21 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Aug 01 16:59:21 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Aug 01 16:59:21 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Aug 01 16:59:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 16:59:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 16:59:21 symfony [info] {sfWebDebugLogger} Configuration 0.48 ms (8)
+Aug 01 16:59:21 symfony [info] {sfWebDebugLogger} Factories 10.67 ms (1)
+Aug 01 16:59:21 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Aug 01 16:59:21 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.65 ms (1)
+Aug 01 16:59:21 symfony [info] {sfWebResponse} Send content (30208 o)
+Aug 01 16:59:36 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 16:59:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 16:59:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 16:59:36 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 16:59:36 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 16:59:36 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 30 (Undefined variable: Articles)
+Aug 01 16:59:36 symfony [warning] {sfWebDebugLogger}  Warning at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 30 (Invalid argument supplied for foreach())
+Aug 01 16:59:36 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 16:59:36 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 16:59:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 16:59:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 16:59:36 symfony [info] {sfWebDebugLogger} Configuration 23.36 ms (9)
+Aug 01 16:59:36 symfony [info] {sfWebDebugLogger} Factories 28.89 ms (1)
+Aug 01 16:59:36 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.09 ms (1)
+Aug 01 16:59:36 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 6.00 ms (1)
+Aug 01 16:59:36 symfony [info] {sfWebResponse} Send content (29374 o)
+Aug 01 19:44:04 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:44:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:44:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:44:04 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:44:04 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:44:04 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 13 (Undefined variable: blog)
+Aug 01 19:44:04 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 13 (Trying to get property of non-object)
+Aug 01 19:44:04 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 13 (Undefined variable: blog)
+Aug 01 19:44:04 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 13 (Trying to get property of non-object)
+Aug 01 19:44:04 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 31 (Undefined variable: Articles)
+Aug 01 19:44:04 symfony [warning] {sfWebDebugLogger}  Warning at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 31 (Invalid argument supplied for foreach())
+Aug 01 19:44:04 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:44:04 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:44:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:44:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:44:04 symfony [info] {sfWebDebugLogger} Configuration 0.93 ms (8)
+Aug 01 19:44:04 symfony [info] {sfWebDebugLogger} Factories 12.02 ms (1)
+Aug 01 19:44:04 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.09 ms (1)
+Aug 01 19:44:04 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 5.61 ms (1)
+Aug 01 19:44:04 symfony [info] {sfWebResponse} Send content (30220 o)
+Aug 01 19:44:10 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /blog with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:44:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:44:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:44:10 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:44:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:44:10 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 13 (Undefined variable: blog)
+Aug 01 19:44:10 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 13 (Trying to get property of non-object)
+Aug 01 19:44:10 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 13 (Undefined variable: blog)
+Aug 01 19:44:10 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 13 (Trying to get property of non-object)
+Aug 01 19:44:10 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 31 (Undefined variable: Articles)
+Aug 01 19:44:10 symfony [warning] {sfWebDebugLogger}  Warning at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php on line 31 (Invalid argument supplied for foreach())
+Aug 01 19:44:10 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:44:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:44:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:44:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:44:10 symfony [info] {sfWebDebugLogger} Configuration 0.51 ms (8)
+Aug 01 19:44:10 symfony [info] {sfWebDebugLogger} Factories 10.51 ms (1)
+Aug 01 19:44:10 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.09 ms (1)
+Aug 01 19:44:10 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 5.26 ms (1)
+Aug 01 19:44:10 symfony [info] {sfWebResponse} Send content (30239 o)
+Aug 01 19:48:42 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /blog with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:48:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:48:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:48:42 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:48:42 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:48:42 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:48:42 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:48:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:48:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:48:42 symfony [info] {sfWebDebugLogger} Configuration 10.08 ms (10)
+Aug 01 19:48:42 symfony [info] {sfWebDebugLogger} Factories 10.65 ms (1)
+Aug 01 19:48:42 symfony [info] {sfWebDebugLogger} Action "blog/index" 11.00 ms (1)
+Aug 01 19:48:42 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 4.92 ms (1)
+Aug 01 19:48:42 symfony [info] {sfWebResponse} Send content (29456 o)
+Aug 01 19:49:05 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /blog with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:49:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:49:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:49:05 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:49:05 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:49:05 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:05 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:49:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:49:05 symfony [info] {sfWebDebugLogger} Configuration 0.55 ms (8)
+Aug 01 19:49:05 symfony [info] {sfWebDebugLogger} Factories 10.92 ms (1)
+Aug 01 19:49:05 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.77 ms (1)
+Aug 01 19:49:05 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 4.99 ms (1)
+Aug 01 19:49:05 symfony [info] {sfWebResponse} Send content (29464 o)
+Aug 01 19:49:12 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /blog with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:49:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:49:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:49:12 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:49:12 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:49:12 symfony [err] {sfConfigurationException} Unable to find a matching route to generate url for params "array (  'action' => 'backend_dev.php',  'module' => '..',)".
+Aug 01 19:49:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Aug 01 19:49:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:49:12 symfony [info] {sfWebDebugLogger} Configuration 0.52 ms (8)
+Aug 01 19:49:12 symfony [info] {sfWebDebugLogger} Factories 10.53 ms (1)
+Aug 01 19:49:12 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.87 ms (1)
+Aug 01 19:49:12 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 19.21 ms (1)
+Aug 01 19:49:31 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /blog with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:49:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:49:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:49:31 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:49:31 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:49:31 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:31 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:49:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:49:31 symfony [info] {sfWebDebugLogger} Configuration 0.54 ms (8)
+Aug 01 19:49:31 symfony [info] {sfWebDebugLogger} Factories 10.68 ms (1)
+Aug 01 19:49:31 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.75 ms (1)
+Aug 01 19:49:31 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 4.84 ms (1)
+Aug 01 19:49:31 symfony [info] {sfWebResponse} Send content (29437 o)
+Aug 01 19:49:36 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /blog with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:49:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:49:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:49:36 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:49:36 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:49:36 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:36 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:49:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:49:36 symfony [info] {sfWebDebugLogger} Configuration 0.48 ms (8)
+Aug 01 19:49:36 symfony [info] {sfWebDebugLogger} Factories 10.43 ms (1)
+Aug 01 19:49:36 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.73 ms (1)
+Aug 01 19:49:36 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 4.94 ms (1)
+Aug 01 19:49:36 symfony [info] {sfWebResponse} Send content (29437 o)
+Aug 01 19:49:53 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/5 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '5',)
+Aug 01 19:49:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:49:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:49:53 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:49:53 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:49:53 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:53 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:49:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:49:53 symfony [info] {sfWebDebugLogger} Configuration 0.49 ms (8)
+Aug 01 19:49:53 symfony [info] {sfWebDebugLogger} Factories 10.56 ms (1)
+Aug 01 19:49:53 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.64 ms (1)
+Aug 01 19:49:53 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.39 ms (1)
+Aug 01 19:49:53 symfony [info] {sfWebResponse} Send content (28647 o)
+Aug 01 19:49:57 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /blog with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:49:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:49:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:49:57 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:49:57 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:49:57 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:57 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:49:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:49:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:49:57 symfony [info] {sfWebDebugLogger} Configuration 0.47 ms (8)
+Aug 01 19:49:57 symfony [info] {sfWebDebugLogger} Factories 10.48 ms (1)
+Aug 01 19:49:57 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.91 ms (1)
+Aug 01 19:49:57 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 5.03 ms (1)
+Aug 01 19:49:57 symfony [info] {sfWebResponse} Send content (29437 o)
+Aug 01 19:50:27 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/6 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '6',)
+Aug 01 19:50:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:50:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:50:27 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:50:27 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:50:27 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:50:27 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:50:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:50:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:50:27 symfony [info] {sfWebDebugLogger} Configuration 0.52 ms (8)
+Aug 01 19:50:27 symfony [info] {sfWebDebugLogger} Factories 10.43 ms (1)
+Aug 01 19:50:27 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.92 ms (1)
+Aug 01 19:50:27 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 5.62 ms (1)
+Aug 01 19:50:27 symfony [info] {sfWebResponse} Send content (28647 o)
+Aug 01 19:51:36 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/6 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '6',)
+Aug 01 19:51:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:51:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:51:36 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:51:36 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:51:36 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:51:36 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:51:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:51:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:51:36 symfony [info] {sfWebDebugLogger} Configuration 0.60 ms (8)
+Aug 01 19:51:36 symfony [info] {sfWebDebugLogger} Factories 12.56 ms (1)
+Aug 01 19:51:36 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.76 ms (1)
+Aug 01 19:51:36 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.51 ms (1)
+Aug 01 19:51:36 symfony [info] {sfWebResponse} Send content (28703 o)
+Aug 01 19:51:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/6 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '6',)
+Aug 01 19:51:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:51:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:51:38 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:51:38 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:51:38 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:51:38 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:51:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:51:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:51:38 symfony [info] {sfWebDebugLogger} Configuration 0.49 ms (8)
+Aug 01 19:51:38 symfony [info] {sfWebDebugLogger} Factories 10.47 ms (1)
+Aug 01 19:51:38 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.83 ms (1)
+Aug 01 19:51:38 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.48 ms (1)
+Aug 01 19:51:38 symfony [info] {sfWebResponse} Send content (28703 o)
+Aug 01 19:53:16 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/6 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '6',)
+Aug 01 19:53:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:53:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:53:16 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:53:16 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:53:16 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:53:16 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:53:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:53:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:53:16 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (8)
+Aug 01 19:53:16 symfony [info] {sfWebDebugLogger} Factories 12.40 ms (1)
+Aug 01 19:53:16 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.89 ms (1)
+Aug 01 19:53:16 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.79 ms (1)
+Aug 01 19:53:16 symfony [info] {sfWebResponse} Send content (28709 o)
+Aug 01 19:53:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/6 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '6',)
+Aug 01 19:53:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:53:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:53:31 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:53:31 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:53:31 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/escaper/sfOutputEscaperArrayDecorator.class.php on line 119 (Undefined index: created_ad)
+Aug 01 19:53:31 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:53:31 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:53:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:53:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:53:31 symfony [info] {sfWebDebugLogger} Configuration 0.61 ms (8)
+Aug 01 19:53:31 symfony [info] {sfWebDebugLogger} Factories 10.84 ms (1)
+Aug 01 19:53:31 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.76 ms (1)
+Aug 01 19:53:31 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.67 ms (1)
+Aug 01 19:53:31 symfony [info] {sfWebResponse} Send content (28929 o)
+Aug 01 19:53:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/6 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '6',)
+Aug 01 19:53:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:53:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:53:38 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:53:38 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:53:38 symfony [notice] {sfWebDebugLogger}  Notice at /Users/mac_user/Dropbox/projects/htdocs/sf_blog/lib/vendor/symfony/lib/escaper/sfOutputEscaperArrayDecorator.class.php on line 119 (Undefined index: created_at)
+Aug 01 19:53:38 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:53:38 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:53:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:53:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:53:38 symfony [info] {sfWebDebugLogger} Configuration 0.54 ms (8)
+Aug 01 19:53:38 symfony [info] {sfWebDebugLogger} Factories 11.14 ms (1)
+Aug 01 19:53:38 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.78 ms (1)
+Aug 01 19:53:38 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.64 ms (1)
+Aug 01 19:53:38 symfony [info] {sfWebResponse} Send content (28929 o)
+Aug 01 19:53:55 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/6 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '6',)
+Aug 01 19:53:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:53:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:53:55 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:53:55 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:53:55 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:53:55 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:53:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:53:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:53:55 symfony [info] {sfWebDebugLogger} Configuration 0.55 ms (8)
+Aug 01 19:53:55 symfony [info] {sfWebDebugLogger} Factories 10.74 ms (1)
+Aug 01 19:53:55 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.83 ms (1)
+Aug 01 19:53:55 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.68 ms (1)
+Aug 01 19:53:55 symfony [info] {sfWebResponse} Send content (28711 o)
+Aug 01 19:54:03 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/6 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '6',)
+Aug 01 19:54:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:54:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:54:03 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:54:03 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:54:03 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:03 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:54:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:54:03 symfony [info] {sfWebDebugLogger} Configuration 0.60 ms (8)
+Aug 01 19:54:03 symfony [info] {sfWebDebugLogger} Factories 10.99 ms (1)
+Aug 01 19:54:03 symfony [info] {sfWebDebugLogger} Action "blog/show" 1.10 ms (1)
+Aug 01 19:54:03 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.61 ms (1)
+Aug 01 19:54:03 symfony [info] {sfWebResponse} Send content (28717 o)
+Aug 01 19:54:13 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/6 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '6',)
+Aug 01 19:54:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:54:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:54:13 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:54:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:54:13 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:54:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:54:13 symfony [info] {sfWebDebugLogger} Configuration 0.47 ms (8)
+Aug 01 19:54:13 symfony [info] {sfWebDebugLogger} Factories 10.07 ms (1)
+Aug 01 19:54:13 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.75 ms (1)
+Aug 01 19:54:13 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.51 ms (1)
+Aug 01 19:54:13 symfony [info] {sfWebResponse} Send content (28717 o)
+Aug 01 19:54:15 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /blog with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:54:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:54:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:54:15 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:54:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:54:15 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:54:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:54:15 symfony [info] {sfWebDebugLogger} Configuration 0.49 ms (8)
+Aug 01 19:54:15 symfony [info] {sfWebDebugLogger} Factories 10.59 ms (1)
+Aug 01 19:54:15 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.84 ms (1)
+Aug 01 19:54:15 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 5.09 ms (1)
+Aug 01 19:54:15 symfony [info] {sfWebResponse} Send content (29437 o)
+Aug 01 19:54:16 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /blog/show/id/3 with parameters array (  'module' => 'blog',  'action' => 'show',  'id' => '3',)
+Aug 01 19:54:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:54:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:54:16 symfony [info] {blogActions} Call "blogActions->executeShow()"
+Aug 01 19:54:16 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/showSuccess.php"
+Aug 01 19:54:16 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:16 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:54:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:54:16 symfony [info] {sfWebDebugLogger} Configuration 0.60 ms (8)
+Aug 01 19:54:16 symfony [info] {sfWebDebugLogger} Factories 10.68 ms (1)
+Aug 01 19:54:16 symfony [info] {sfWebDebugLogger} Action "blog/show" 0.75 ms (1)
+Aug 01 19:54:16 symfony [info] {sfWebDebugLogger} View "Success" for "blog/show" 4.48 ms (1)
+Aug 01 19:54:16 symfony [info] {sfWebResponse} Send content (28719 o)
+Aug 01 19:54:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /blog with parameters array (  'module' => 'blog',  'action' => 'index',)
+Aug 01 19:54:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Aug 01 19:54:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 01 19:54:19 symfony [info] {blogActions} Call "blogActions->executeIndex()"
+Aug 01 19:54:19 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/modules/blog/templates/indexSuccess.php"
+Aug 01 19:54:19 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:19 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_blog/apps/frontend/templates/layout.php"
+Aug 01 19:54:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Aug 01 19:54:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Aug 01 19:54:19 symfony [info] {sfWebDebugLogger} Configuration 0.51 ms (8)
+Aug 01 19:54:19 symfony [info] {sfWebDebugLogger} Factories 10.41 ms (1)
+Aug 01 19:54:19 symfony [info] {sfWebDebugLogger} Action "blog/index" 0.75 ms (1)
+Aug 01 19:54:19 symfony [info] {sfWebDebugLogger} View "Success" for "blog/index" 4.92 ms (1)
+Aug 01 19:54:19 symfony [info] {sfWebResponse} Send content (29437 o)
